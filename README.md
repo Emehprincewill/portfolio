@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Github portfolio
 
 You can use the [editor on GitHub](https://github.com/Emehprincewill/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
